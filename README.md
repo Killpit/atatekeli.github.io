@@ -51,15 +51,21 @@ Successfully spearheaded the migration of a monolithic application to a scalable
 Addressing the critical issue of coccidiosis detection in poultry, I spearheaded the development of a deep learning model for accurate classification. This project entailed:
 
 **Data Acquisition**: A comprehensive dataset of 350 fecal images was meticulously curated from diverse sources, ensuring balanced representation of both healthy and diseased chickens.
+
 **Preprocessing and Augmentation**: Rigorous image preprocessing with resizing, grayscale conversion, and augmentation techniques (flipping, rotation) enhanced data robustness.
+
 **Model Design and Training**: Utilizing the Keras library, a convolutional neural network architecture was implemented and trained on the preprocessed data, achieving an impressive 83% accuracy on the held-out test set.
+
 **Cloud Deployment**: For seamless accessibility and scalability, the model was deployed on both AWS and Azure platforms. A dedicated Jupyter notebook facilitates further experimentation and prediction capabilities.
 
 #### Key Challenges Overcome:
 
 **Dataset Balancing**: Addressing the inherent imbalance in chicken health representation within the data through oversampling techniques.
+
 **Computational Efficiency**: Leveraging cloud GPUs to expedite model training and optimize resource utilization.
+
 **Production-Ready Deployment**: Navigating the complexities of deploying a deep learning model to production environments, opting for cloud platforms for robust accessibility and scalability.
+
 **Impact and Significance**: This project successfully delivers a valuable tool for poultry farmers and veterinarians, empowering them with accurate and efficient coccidiosis detection. The cloud-based deployment ensures widespread accessibility and paves the way for further integration within poultry management systems.
 
 ### Cell Segmentation with YOLOv8 
@@ -70,14 +76,19 @@ Leveraging the state-of-the-art YOLOv8 deep learning model, I built an applicati
 
 **Model Selection**: Recognizing YOLOv8's suitability for both object detection and segmentation tasks, I opted for it as the core of the application.
 **Dataset Preparation**: A crucial step involved curating a labeled dataset of medical and genetic images depicting various cell types. To ensure compatibility with YOLOv8, the labels were converted to the appropriate format.
+
 **Model Training**: Utilizing a cloud platform to harness sufficient computational resources, I trained the YOLOv8 model on the prepared dataset. This rigorous training process optimized the model's cell segmentation accuracy.
+
 **Application Development**: Building upon the trained model, I developed a user-friendly application in Python, employing the Flask framework. This application allows users to seamlessly upload new images and receive precise cell segmentation results.
+
 **Deployment and Accessibility**: For broader impact, the application was deployed to Azure, enabling easy access for researchers and clinicians to leverage its cell segmentation capabilities for their own studies and analyses.
 
 #### Challenges Successfully Addressed:
 
 **Data Acquisition and Labeling**: Gathering and accurately labeling a diverse dataset of medical and genetic images posed a significant challenge. Collaborating with domain experts and employing efficient labeling techniques ensured high-quality data for model training.
+
 **Computational Demands**: Training a deep learning model like YOLOv8 requires substantial computational resources. Utilizing cloud platforms provided the necessary scalability and efficiency to complete the training process successfully.
+
 **Deployment and User Interface**: Ensuring seamless cloud deployment and designing a user-friendly interface were crucial for maximizing the application's accessibility and usability for researchers and clinicians.
 
 ### Waste Detection with YOLOv5
@@ -87,14 +98,19 @@ Leveraging the state-of-the-art YOLOv8 deep learning model, I built an applicati
 Successfully led the development and deployment of a cutting-edge waste detection and classification system utilizing YOLOv5 deep learning technology. This project addressed the critical challenge of waste management by:
 
 **Model Selection and Training**: Recognizing YOLOv5's proficiency in object detection, I implemented and trained a custom model on a curated dataset of labeled waste images, achieving high accuracy in identifying various waste categories.
+
 **Streamlined Workflow**: The system leverages Docker containers for efficient deployment and scalability, enabling seamless integration with existing waste management infrastructure.
+
 **Real-time Processing**: Utilizing optimized algorithms, the system facilitates real-time waste detection and classification, allowing for immediate sorting and processing of waste streams.
+
 **Data Visualization and Analysis**: A dedicated dashboard provides comprehensive insights into waste composition and collection patterns, empowering informed decision-making for optimized waste management strategies.
 
 #### Key Challenges Overcome:
 
 **Data Acquisition and Labeling**: Assembling a diverse and accurately labeled dataset of waste images posed a significant challenge. Collaborating with waste management facilities and employing efficient labeling techniques ensured high-quality data for model training.
+
 **Model Optimization**: Balancing accuracy with computational efficiency was crucial for real-time deployment. Through careful hyperparameter tuning and architecture optimization, the model achieved optimal performance on edge devices.
+
 **Integration and Scalability**: Integrating the system with existing waste management infrastructure required careful consideration of compatibility and data security. The Docker-based containerization approach facilitated seamless deployment and scalability across diverse environments.
 
 ### SolSync
