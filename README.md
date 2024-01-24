@@ -49,7 +49,7 @@ Successfully spearheaded the migration of a monolithic application to a scalable
 
 This project showcases a secure, automated Hotstar clone deployed on AWS using DevSecOps principles. Tools like Docker, Jenkins, SonarQube, and Docker Scout seamlessly weave security into every stage, from static code analysis to container scans. Enjoy efficient deployments with Kubernetes orchestration, all on a robust security foundation.
 
-[Project Link]([Website URL](https://github.com/Killpit/Hotstar-Clone))
+[Project Link]((https://github.com/Killpit/Hotstar-Clone))
 
 ### Coccidiosis Classification
 
