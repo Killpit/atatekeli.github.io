@@ -45,6 +45,12 @@ Spearheaded the transformation of a monolithic application into a robust and sca
 
 Successfully spearheaded the migration of a monolithic application to a scalable and resilient microservices architecture on AWS EKS. This strategic initiative involved decomposing the application into 6 independent services, each owned by dedicated development teams. Leveraging cloud-native technologies like Kubernetes and containerization, I implemented automated deployments, continuous integration/continuous delivery (CI/CD) pipelines, and comprehensive monitoring and observability tools. This transformation resulted in significant improvements in scalability, agility, and fault tolerance, enabling the application to handle increased traffic and adapt to evolving business needs. 
 
+### Secure Disney Hotstar Clone Deployment
+
+This project showcases a secure, automated Hotstar clone deployed on AWS using DevSecOps principles. Tools like Docker, Jenkins, SonarQube, and Docker Scout seamlessly weave security into every stage, from static code analysis to container scans. Enjoy efficient deployments with Kubernetes orchestration, all on a robust security foundation.
+
+[Project Link]([Website URL](https://github.com/Killpit/Hotstar-Clone))
+
 ### Coccidiosis Classification
 
 [Project Link](https://github.com/Killpit/coccidiosis-classifier)
