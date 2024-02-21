@@ -27,7 +27,7 @@ Software Engineering Intern @ Patika.dev (May 2021 - January 2023)
 
 ## Projects
 
-### Secure Netflix Clone Deployment
+### Secure StreamSafe Deployment
 
 This project demonstrates my expertise in deploying and securing cloud-based applications using a DevSecOps approach. I built a Netflix clone application and implemented a CI/CD pipeline with Jenkins for automated deployment and scaling. The pipeline integrates security best practices throughout the development lifecycle, including vulnerability scanning with Trivy and SonarQube for code and containerized images. Additionally, Prometheus and Grafana provide real-time monitoring and insights into the application's health and performance. This project showcases my ability to leverage DevOps tools and practices to build, secure, and deliver reliable cloud-based applications.
 
@@ -45,9 +45,9 @@ Spearheaded the transformation of a monolithic application into a robust and sca
 
 Successfully spearheaded the migration of a monolithic application to a scalable and resilient microservices architecture on AWS EKS. This strategic initiative involved decomposing the application into 6 independent services, each owned by dedicated development teams. Leveraging cloud-native technologies like Kubernetes and containerization, I implemented automated deployments, continuous integration/continuous delivery (CI/CD) pipelines, and comprehensive monitoring and observability tools. This transformation resulted in significant improvements in scalability, agility, and fault tolerance, enabling the application to handle increased traffic and adapt to evolving business needs. 
 
-### Secure Disney Hotstar Clone Deployment
+### Secure StreamSafe Kids Deployment
 
-This project showcases a secure, automated Hotstar clone deployed on AWS using DevSecOps principles. Tools like Docker, Jenkins, SonarQube, and Docker Scout seamlessly weave security into every stage, from static code analysis to container scans. Enjoy efficient deployments with Kubernetes orchestration, all on a robust security foundation.
+This project showcases a secure, automated StreamSafe Kids deployed on AWS using DevSecOps principles. Tools like Docker, Jenkins, SonarQube, and Docker Scout seamlessly weave security into every stage, from static code analysis to container scans. Enjoy efficient deployments with Kubernetes orchestration, all on a robust security foundation.
 
 [Project Link](https://github.com/Killpit/Hotstar-Clone)
 
